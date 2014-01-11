@@ -1,0 +1,11 @@
+Package: com.insanj.rightx
+Name: RightX
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Move Safari's close tab button over.
+ Move the Safari tab close button to the right side.
+Maintainer: Julian Weiss <me@insanj.com>
+Author: Julian (insanj) Weiss
+Section: Tweaks
